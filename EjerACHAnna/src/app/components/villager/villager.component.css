@@ -1,0 +1,22 @@
+.btn{
+  background-color: #96d9ac;
+  width: 140px;
+  height: 60px;
+  color: white;
+  font-size: 18px;
+}
+
+.card-header{
+  background-color: #5ac77e;
+  color: white;
+}
+
+.card-title{
+  color: white;
+  font-size: 24px;
+}
+
+.card-body{
+  color: #5ac77e;
+  font-size: 20px;
+}

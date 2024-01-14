@@ -1,0 +1,9 @@
+a{
+  color: white;
+  font-size: 22px;
+}
+
+a:hover{
+  color: ghostwhite;
+  zoom: 102%;
+}

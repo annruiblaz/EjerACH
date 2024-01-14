@@ -1,0 +1,16 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-3 my-2" *ngFor="let vecino of vecinos">
+      <div class="card text-center"(click)="verDetalles(vecino)">
+        <div class="card-header">
+          <h5 class="card-title"> {{vecino.id}} - {{vecino.name['name-EUes']}}</h5>
+        </div>
+        <img class="img img-thumbnail" [src]="'assets/images/villagers/' + vecino['file-name'] + '.png'" alt="Card image cap">
+      </div>
+    </div>
+  </div>
+
+
+
+
+</div>

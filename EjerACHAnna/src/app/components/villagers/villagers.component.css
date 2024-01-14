@@ -1,0 +1,18 @@
+.card-header{
+  background-color: #5ac77e;
+}
+
+.card-title{
+  color: white;
+  font-size: 24px;
+}
+
+.card{
+  background-color: lightgrey;
+}
+
+.card-body{
+  color: #5ac77e;
+  font-size: 20px;
+}
+
